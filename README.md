@@ -1,6 +1,8 @@
 # Cheatsheet
 
-* [Markdown](https://en.support.wordpress.com/markdown-quick-reference/)
+* Markdown
+    * [Cheatsheet from wordpress](https://en.support.wordpress.com/markdown-quick-reference/)
+    * [Basic syntax](https://www.markdownguide.org/basic-syntax/)
 * [Plantuml](http://plantuml.com/)
 
 
