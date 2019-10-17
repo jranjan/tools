@@ -17,7 +17,7 @@
        * [OnlineGDB python editor](https://www.onlinegdb.com/online_python_compiler) 
     * [nodejs](https://repl.it/languages/nodejs)
     * [C](https://repl.it/languages/c)   
-    * [Scala](https://www.tutorialspoint.com/compile_scala_online.php)   
+    * [Scala](https://www.jdoodle.com/compile-scala-online/)   
 * [Swagger editor](https://editor.swagger.io/)
 * JSON
   * [Json editor](https://jsoneditoronline.org/)
