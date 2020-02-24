@@ -26,3 +26,6 @@
   * [YAML to JSON](http://convertjson.com/yaml-to-json.htm)
 * Platform
   * [kubernetes](https://www.katacoda.com/courses/kubernetes/playground)
+* Plantuml editor
+     * [PlantText](https://www.planttext.com/)
+     * [kkeisuke](https://plantuml-editor.kkeisuke.com/)
